@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target" : {
+      "namespace": "android_app",
+      "package_name": "com.ricoh.leaford",
+      "sha256_cert_fingerprints": ["7C:63:71:74:E4:6A:67:5B:08:27:1F:47:BE:33:7B:7A:BF:E5:63:C6:D0:80:CD:E9:A2:73:46:21:EA:C7:23:E7"]
+    }
+  }
+]
